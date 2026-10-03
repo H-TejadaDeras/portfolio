@@ -11,7 +11,7 @@ layout: default
 - [Mk. VII BSPD PCB](subpages/proj_bspd.md)
 - [Mk. VIII Charging Cart Controller PCB](subpages/proj_charging_cart_cntrlr.md)
 - [Disk Golf Disk Cleaner (Hosted Offsite)](https://disc-golf-project.vercel.app/)
-- [Linux Remote Assistance Setup]
+- [Linux Remote Assistance Setup](subpages/proj_linux_remote_assist.md)
 
 **Work Experience**
 - [TTM Technologies' Advanced Manufacturing Group](subpages/exp_ttm_amg.md)
