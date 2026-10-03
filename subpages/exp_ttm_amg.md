@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 ---
 
 # TTM Technologies' Advanced Manufacturing Group

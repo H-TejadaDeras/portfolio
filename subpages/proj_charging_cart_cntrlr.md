@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 ---
 
 # Mk. VIII Charging Cart Controller PCB

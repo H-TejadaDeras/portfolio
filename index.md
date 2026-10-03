@@ -9,7 +9,7 @@ layout: default
 
 **Selected Projects List**
 - [Mk. VII BSPD PCB](subpages/proj_bspd.md)
-- [Mk. VIII Charging Cart Controller PCB]
+- [Mk. VIII Charging Cart Controller PCB](subpages/proj_charging_cart_cntrlr.md)
 - [Disk Golf Disk Cleaner (Hosted Offsite)](https://disc-golf-project.vercel.app/)
 - [Linux Remote Assistance Setup]
 
