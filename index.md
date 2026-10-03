@@ -8,7 +8,7 @@ layout: default
 - [Resume](subpages/resume.md)
 
 **Selected Projects List**
-- [Mk. VII BSPD PCB]
+- [Mk. VII BSPD PCB](subpages/proj_bspd.md)
 - [Mk. VIII Charging Cart Controller PCB]
 - [Disk Golf Disk Cleaner (Hosted Offsite)](https://disc-golf-project.vercel.app/)
 - [Linux Remote Assistance Setup]
