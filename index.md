@@ -4,7 +4,8 @@ layout: default
 
 # Henry's Portfolio
 
-[**Resume**](subpages/resume.md)
+**Resume**
+- [Resume](subpages/resume.md)
 
 **Selected Projects List**
 - [Mk. VII BSPD PCB]
@@ -25,4 +26,5 @@ layout: default
 - Camping
 - Many others ...
 
-[**Contact Me**](subpages/contact_me.md)
+**Contact Me**
+- [Contact Me](subpages/contact_me.md)
