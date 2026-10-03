@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Henry Tejada Deras
 _Electrical Engineering Student (3rd Year) at Franklin W. Olin College of Engineering_
 
